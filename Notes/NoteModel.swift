@@ -13,3 +13,7 @@ struct NoteModel : Identifiable {
     var content : String
     var date : String
 }
+
+struct NoteModel2 : Identifiable {
+    var id : String
+}
