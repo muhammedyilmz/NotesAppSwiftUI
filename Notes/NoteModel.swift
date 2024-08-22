@@ -14,6 +14,3 @@ struct NoteModel : Identifiable {
     var date : String
 }
 
-struct NoteModel2 : Identifiable {
-    var id : String
-}
